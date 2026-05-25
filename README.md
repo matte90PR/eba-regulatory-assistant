@@ -104,20 +104,6 @@ cd "path/to/eba-regulatory-assistant"
 jupyter lab
 ```
 
-## Project Structure
-
-```
-eba-regulatory-assistant/
-├── 00 Data/                    # EBA Guidelines PDFs (not tracked)
-├── 01 Week 1/
-│   └── EsercizioRAG.ipynb     # Main RAG notebook
-├── chroma_db/                  # Vector store (not tracked)
-├── .env                        # API keys (not tracked)
-├── .gitignore
-├── requirements.txt
-└── README.md
-```
-
 ## Data Sources
 
 All documents used are publicly available:
@@ -141,8 +127,7 @@ No proprietary or confidential data is used in this project.
 
 ## Author
 
-**mattez90** — Senior Credit Risk Manager transitioning to AI Transformation Architect
-
+**Matteo Zoro **
 ---
 
 *Built with LangChain · Groq · OpenAI · ChromaDB*
