@@ -1,0 +1,23 @@
+# API keys e variabili d'ambiente
+.env
+
+# Vector store — troppo grande per GitHub
+chroma_db/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Jupyter
+.jupyter/
+
+# Conda/pip
+*.egg-info/
+dist/
+build/
+
+# OS
+.DS_Store
+Thumbs.db

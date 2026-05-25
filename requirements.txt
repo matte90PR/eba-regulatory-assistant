@@ -1,0 +1,10 @@
+langchain
+langchain-openai
+langchain-groq
+langchain-chroma
+langchain-community
+chromadb
+openai
+python-dotenv
+httpx
+pypdf
